@@ -1,0 +1,19 @@
+{
+  "name": "dev.schmiggolas.ulogger",
+  "version": "1.0.0",
+  "displayName": "ULogger",
+  "description": "This package provides a simple implementation/framework for nice, thread-safe logging in Unity.",
+  "unity": "2019.1",
+  "unityRelease": "0b5",
+  "dependencies": {
+ },
+ "keywords": [
+    "Logging"
+  ],
+  "author": {
+    "name": "Nicolas Teichtweier",
+    "email": "hello@schmiggolas.dev",
+    "url": "https://schmiggolas.dev"
+  }
+}
+

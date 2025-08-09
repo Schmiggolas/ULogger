@@ -1,0 +1,1 @@
+This is a WiP project. I'm building a small, opinionated, general purpose logging solution for unity.  
